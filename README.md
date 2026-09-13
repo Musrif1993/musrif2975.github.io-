@@ -1,4 +1,4 @@
-Muhammad Arsalan Portfolio
+Muhammad Musrif Portfolio
 Static GitHub Pages frontend built with semantic HTML, CSS and vanilla JavaScript, with a shared backend API adapter and offline-safe browser caching.
 
 Site structure
